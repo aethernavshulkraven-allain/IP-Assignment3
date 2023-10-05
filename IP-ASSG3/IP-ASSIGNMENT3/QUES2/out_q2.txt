@@ -1,0 +1,4 @@
+-----------------
+No. of students entered: 1499
+No. of students exited: 1573
+-----------------

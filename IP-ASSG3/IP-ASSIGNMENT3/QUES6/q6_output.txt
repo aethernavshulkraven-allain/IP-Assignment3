@@ -1,0 +1,32 @@
+
+Advantages of OOP:
+    1) Allows user to create self defined data-types and classses
+    2) Allows user to create operations of there choice on the objects, 
+    this also allows clubbing various functions of a pirtucular data-type
+
+Advantages of Dictionary:
+    1) Allows mapping elements with familiar keys thus reducing cognitive load of the reader and editor of the code
+    2) Nested dictionary or dictionary combined with lists, tuples allows us to store multitude of data easily and in a mappable format, similarly linking dictionaries opens variety
+    of tasks that can be performed with dictionaries
+
+Disadvantages of OOP:
+    1) Makes syntax more complicated which troubles in debugging
+    2) Increases the length of code
+
+Disadvantages of Dictionary:
+    1) Dictionaries are not indexed and ordered
+    2) Keys are limited and we cant keep increasing like indexes in lists etc.
+|-----------------------------------------------------------------------------------|
+
+Performance comparison for grading operation:
+1. N: 1000
+2. Time by OO: 0.022800207138061523
+3. Time by dictionary: 0.0473179817199707
+4. X is faster; fraction of time x took is: OOP, 0.022800207138061523; 0.4818507956022694
+
+Performance comparison for search operation:
+1. N: 1000
+2. Time by OO: 0.002054929733276367
+3. Time by dictionary: 0.0029289722442626953
+4. X is faster; fraction of time x took is: OOP, 0.002054929733276367; 0.7015873015873015
+|-----------------------------------------------------------------------|

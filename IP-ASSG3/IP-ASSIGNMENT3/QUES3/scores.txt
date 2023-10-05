@@ -1,0 +1,5 @@
+file1
+Scores: 9.75609756097561
+five most used words in descending order: ['a', 'is', 'the', 'to', 'for']
+5 random words from the submission are: ['real', 'the', 'any', 'we', 'are']
+--------------------
